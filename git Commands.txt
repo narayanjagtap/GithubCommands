@@ -33,5 +33,5 @@ git branch -M main
 //gives GitHub reposetorie URL
 git remote add origin https://github.com/narayanjagtap/gitcommands.git
 
-//push your files on GitHub 
+//push your files on GitHub
 git push -u origin main
