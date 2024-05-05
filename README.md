@@ -1,11 +1,3 @@
-<hr>
-
-
-
 
 # Github Commands
 
-
-
-
-<hr>
