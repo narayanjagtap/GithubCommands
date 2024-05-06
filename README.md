@@ -4,10 +4,10 @@
 
 <b>Push your Project code on GitHub using this commands.</b>
 
-//git instalation
-sudo apt update
+//git instalation <br>
+sudo apt update <br>
 sudo apt install git
-
+<br><br>
 //check git version
 git --version
 
