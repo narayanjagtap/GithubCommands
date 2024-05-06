@@ -46,8 +46,10 @@ git commit -m "first commit"
 git branch -M main
 <br><br>
 
-//gives GitHub reposetorie URL
+//gives GitHub reposetorie URL <br>
 git remote add origin https://github.com/narayanjagtap/gitcommands.git
+<br><br>
 
-//push your files on GitHub 
+//push your files on GitHub <br>
 git push -u origin main
+<br><br>
