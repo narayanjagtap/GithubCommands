@@ -2,7 +2,7 @@
 # Github Commands
 
 
-<b>Push your Project code on GitHub using this commands.</b>
+<b><b>Push your Project code on GitHub using this commands.</b></b>
 
 //git instalation <br>
 sudo apt update <br>
